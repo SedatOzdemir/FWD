@@ -4,7 +4,7 @@
 ### Usage
 
 ```
-git clone https://github.com/SedatOzdemir/FWD
+git clone https://github.com/SedatOzdemir/FWD.git
 perl FWD.pl
 
 ```
